@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit5.CalculatorTest$AddTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-06-06T16:57:00" hostname="MacBook-Pro-de-Alberto.local" time="0.008">
+  <properties/>
+  <testcase name="add_Zero_Test()" classname="junit5.CalculatorTest$AddTest" time="0.001"/>
+  <testcase name="add_Negative_Test()" classname="junit5.CalculatorTest$AddTest" time="0.001"/>
+  <testcase name="add_Positive_Test()" classname="junit5.CalculatorTest$AddTest" time="0.003"/>
+  <system-out><![CDATA[@BeforeEah -> setUp()
+@AfterEach -> tearDown()
+@BeforeEah -> setUp()
+@AfterEach -> tearDown()
+@BeforeEah -> setUp()
+@AfterEach -> tearDown()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

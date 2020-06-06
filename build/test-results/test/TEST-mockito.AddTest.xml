@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="mockito.AddTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-06-06T16:57:06" hostname="MacBook-Pro-de-Alberto.local" time="0.582">
+  <properties/>
+  <testcase name="spyTest()" classname="mockito.AddTest" time="0.439"/>
+  <testcase name="addPrintTest()" classname="mockito.AddTest" time="0.016"/>
+  <testcase name="bddPatternTest()" classname="mockito.AddTest" time="0.003"/>
+  <testcase name="addTest()" classname="mockito.AddTest" time="0.017"/>
+  <testcase name="captorTest()" classname="mockito.AddTest" time="0.008"/>
+  <testcase name="mockTest()" classname="mockito.AddTest" time="0.016"/>
+  <testcase name="aaaPatternTest()" classname="mockito.AddTest" time="0.004"/>
+  <testcase name="argumentMatcherTest()" classname="mockito.AddTest" time="0.006"/>
+  <testcase name="addRealMethodTest()" classname="mockito.AddTest" time="0.009"/>
+  <testcase name="addMockExceptionTest()" classname="mockito.AddTest" time="0.018"/>
+  <testcase name="addDoubleToInThenAnswerTest()" classname="mockito.AddTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

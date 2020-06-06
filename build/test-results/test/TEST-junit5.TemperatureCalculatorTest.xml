@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit5.TemperatureCalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-06T16:56:59" hostname="MacBook-Pro-de-Alberto.local" time="0.027">
+  <properties/>
+  <testcase name="toFahrengheitTest()" classname="junit5.TemperatureCalculatorTest" time="0.027"/>
+  <system-out><![CDATA[@BeforeEach -> setUp()
+@Test -> toFahrengheitTest()
+@AfterEach -> tearDown()
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
